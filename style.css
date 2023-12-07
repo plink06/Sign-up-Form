@@ -38,7 +38,7 @@ input:focus{
     
 }
 input:invalid{
-    border: 1px solid red;
+    border: 1px solid blue;
 }
 img{
     margin: 0;
@@ -138,7 +138,7 @@ a{
 }
 
 .error{
-    background-color: red;
+    border: 1px solid red;
 }
 .innerContainer{
     display: flex;
